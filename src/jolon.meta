@@ -1,7 +1,7 @@
 {
   "version": 0,
   "shared": {
-    "background": "rgb(255,255,255)",
+    "background": "rgb(15,15,15)",
     "range": [
       0,
       null
@@ -13,12 +13,12 @@
     "audioOffset": 0
   },
   "preview": {
-    "fps": 30,
+    "fps": 60,
     "resolutionScale": 1
   },
   "rendering": {
     "fps": 60,
-    "resolutionScale": 1,
+    "resolutionScale": 2,
     "colorSpace": "srgb",
     "exporter": {
       "name": "image sequence",
