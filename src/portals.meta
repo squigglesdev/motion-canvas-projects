@@ -1,7 +1,7 @@
 {
   "version": 0,
   "shared": {
-    "background": "rgb(0,0,16)",
+    "background": "rgb(58,58,58)",
     "range": [
       0,
       null
@@ -17,7 +17,7 @@
     "resolutionScale": 1
   },
   "rendering": {
-    "fps": 120,
+    "fps": 60,
     "resolutionScale": 1,
     "colorSpace": "srgb",
     "exporter": {

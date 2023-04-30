@@ -158,8 +158,8 @@ export default makeScene2D(function* (view) {
   dot().fill(PURPLE)
   yield* waitFor(2);
   yield* all(
-    mask().position([0,0]),
-    mask().scale(25),
+    mask().position([0,0],0),
+    mask().scale(25,0),
     J().rotation(30, 0.5),
     J().position.y(150, 0.7, easeInBack)
   );

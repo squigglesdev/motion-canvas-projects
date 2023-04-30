@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [motionCanvas({
     project: [
       './src/interpolation.ts',
-      './src/tetris.ts',
+      './src/portals.ts',
       './src/jolon.ts',
       './src/presentationTest.ts',
     ]
