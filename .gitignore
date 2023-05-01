@@ -2,7 +2,7 @@
 node_modules
 output
 dist
-.mp4
+*.mp4
 
 # Editor directories and files
 media
