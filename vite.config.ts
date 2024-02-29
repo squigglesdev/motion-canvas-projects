@@ -5,7 +5,7 @@ import ffmpeg from '@motion-canvas/ffmpeg';
 export default defineConfig({
   plugins: [motionCanvas({
       project: [
-        './src/interpolation.ts',
+        './src/acerola1.ts',
         './src/portals.ts',
         './src/jolon.ts',
         './src/presentationTest.ts',
